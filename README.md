@@ -56,15 +56,12 @@ endmodule
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![rtl](https://github.com/user-attachments/assets/193b8325-c312-46f8-942b-8553f0e997bf)
-
-![truth table](https://github.com/user-attachments/assets/e03fb916-98a5-4548-817a-584b815a1bc2)
-
+![flip flop](https://github.com/user-attachments/assets/b58f3987-7904-4ae1-a2db-98c931dccf32)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![output](https://github.com/user-attachments/assets/7e1ac116-151c-4ba6-9431-d07e6b157070)
+![flip flop output](https://github.com/user-attachments/assets/3c6d8fd4-768f-46ea-8dd6-aed4e2d6feb9)
 
 
 **RESULTS**
